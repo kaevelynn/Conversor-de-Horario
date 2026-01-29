@@ -1,13 +1,4 @@
 package conversor;
-// System.out.println("Retorna Valor : " + String.valueOf(numero));
-
-/* CHARTA
- * String nomeCurso = "JAVA";
-
-if(nomeCurso.charAt(1) == ‘A’) {
-    System.out.println(“O caractere A está na posição 1”);
-}
- */
 
 public class Conversor {
     public static String ConverterHorario(String horario) {
